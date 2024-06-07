@@ -28,12 +28,12 @@ This repository contains data and analysis performed using Power BI. You can fin
 
 - Power BI
 - Git
-- 
+
 ## How to Contribute
 
 If you would like to contribute to this project, please fork the repository and submit a pull request. For major changes, please open an issue first to discuss what you would like to change.
 
-Objective: 
+## Objective: 
 
 1.	What are the key determinants of coffee quality as evaluated through sensory attributes such as aroma, flavor, acidity, etc.?
 
